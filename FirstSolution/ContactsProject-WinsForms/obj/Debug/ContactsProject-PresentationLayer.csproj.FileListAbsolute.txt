@@ -1,0 +1,16 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsProject-WinsForms.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsProject-WinsForms.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsProject-WinsForms.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-PresentationLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject_WinsForms.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-PresentationLayer.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-PresentationLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-WinsForms.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-WinsForms.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsBusinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsBusinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject_WinsForms.frmAddEditContact.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject_WinsForms.frmListContacts.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsProject-WinsForms\obj\Debug\ContactsProject-PresentationLayer.csproj.CopyComplete
