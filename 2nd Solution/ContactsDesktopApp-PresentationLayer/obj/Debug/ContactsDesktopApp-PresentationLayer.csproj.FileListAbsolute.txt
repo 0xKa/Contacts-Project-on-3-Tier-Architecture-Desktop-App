@@ -1,0 +1,16 @@
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsDesktopApp-PresentationLayer.exe.config
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsDesktopApp-PresentationLayer.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsDesktopApp-PresentationLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.csproj.AssemblyReference.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp_PresentationLayer.frmAddEditContact.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp_PresentationLayer.frmListContacts.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp_PresentationLayer.Properties.Resources.resources
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.csproj.GenerateResource.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.csproj.CoreCompileInputs.cache
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.exe
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+F:\ProgrammingAdvices\Course 18 - C# & Database Connectivity\ContactsDesktopApp-PresentationLayer\obj\Debug\ContactsDesktopApp-PresentationLayer.csproj.CopyComplete
